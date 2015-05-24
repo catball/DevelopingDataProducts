@@ -1,5 +1,5 @@
 # This is the user-interface definition of a Shiny web application.
-# You can find out more about building applications with Shiny here:
+# More information about building applications with Shiny can be found from following:
 # 
 # http://www.rstudio.com/shiny/
 #
